@@ -1,3 +1,1 @@
-# CMPE 250 Fall 20 - Project 1
-
-Starter code
+## CMPE250 - Introduction to Computing, Fall'20, 1st Project
